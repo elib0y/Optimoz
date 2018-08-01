@@ -1,4 +1,4 @@
-Optimoz/local.php
+/local.php
 
 # Numerous always-ignore extensions
 *.diff
@@ -21,7 +21,7 @@ Thumbs.db
 .project
 .settings
 .tmproj
-*.esproj
+*.esproj 
 nbproject
 *.sublime-project
 *.sublime-workspace
