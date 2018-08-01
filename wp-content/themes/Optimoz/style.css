@@ -303,19 +303,7 @@ template {
 [hidden] {
     display: none;
 }
-* {
- box-sizing: border-box;	
-}
-html{
-  font-size: 16px;
-    }
-body {
- /* font-family: 'Roboto', sans-serif;*/
-   font-family: 'BebasNeueRegular', sans-serif; 
-   font-weight: normal; 
-   font-style: normal; 
-   padding-top: 105px;
-}
+
 .site_header {
      position: fixed;
       width: 100%;
@@ -343,15 +331,7 @@ body {
            text-align: center;
     }
 }
-.wrapper {
-		overflow: hidden;
-		padding-left: 18px;
-		padding-right: 18px; 
-		max-width: 1236px;
-		margin-left: auto;
-		margin-right: auto;
-	    position: relative;
-}
+
 span{
 	position: relative;
 	left: 60px;
@@ -375,9 +355,7 @@ span{
         display: block;
         padding-top: 10px;
 }
-.fb_logo {
-    visibility: hidden;
-}
+
 nav {
     position: absolute;
     top: 12px;

@@ -22,7 +22,7 @@
 	          <!-- <span><i class="fa fa-facebook-official fa-3x" style="color: #ffff;" aria-hidden="true"></i></span>
 			  <span><i class="fa fa-facebook-official fa-3x" aria-hidden="true"></i></span>
 			  <span><i class="fa fa-facebook-official fa-3x" aria-hidden="true"></i></span>  -->
-			  <span class="fb_logo"><a href ="#"><img src="<?php echo get_theme_file_uri('/images/LOGOF2-SECTION4.png')?>"></a></span>  
+			  <span class="fb_logo hide"><a href ="#"><img src="<?php echo get_theme_file_uri('/images/LOGOF2-SECTION4.png')?>"></a></span>  
 		   </div>	  
 		</div>   
 	<div class="nav_wrapper">	
