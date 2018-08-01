@@ -1,0 +1,14 @@
+/* 3rd Party Package*/
+@import "normalize.css";
+@import "slick-carousel/slick/slick.css";
+
+/*SASS and Global variables*/
+@import  "base/variables";
+@import  "base/baseline";
+@import  "base/utility-classes";
+
+/*BEM Blocks*/
+
+
+
+ 
